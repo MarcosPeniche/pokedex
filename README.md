@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte de uma Pokédex, que permite aos usuários buscar informações sobre vários pokémons .
 
-## Funcionalidades  <img src="https://cdn-icons-png.flaticon.com/512/6008/6008225.png" alt="image" width="30" height="30"> 
+## Funcionalidades  ⚙️
 
 🔍 - **Busca por Pokémon**: Encontre o Pokémon escolhido por meio de seu nome em inglês.
 
@@ -18,7 +18,7 @@ Este repositório contém o código-fonte de uma Pokédex, que permite aos usuá
 
 📚- **Bibliotecas**: JavaScript e CSS
 
-## Licença  <img src="https://cdn-icons-png.flaticon.com/512/1728/1728543.png" alt="image" width="30" height="30"> 
+## Licença 📑
          
 
 Este projeto está licenciado pela [Licença GPL-3.0](LICENSE).
@@ -35,7 +35,7 @@ Este projeto está licenciado pela [Licença GPL-3.0](LICENSE).
 Para acessar o prejoto, aperter [Pokédex](https://marcospeniche.vercel.app/).
 
 
-## Contato  <img src="https://cdn.icon-icons.com/icons2/185/PNG/512/Contacts_22705.png" alt="image" width="30" height="30"> 
+## Contato 📞 
 Esse repositório foi desenvolvido por Marcos Matias.
 - **Nome**: Marcos Matias Peniche da Luz
 - **E-mail**: Marcos.luz0504@gmail.com
